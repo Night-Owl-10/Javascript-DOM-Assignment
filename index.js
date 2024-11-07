@@ -67,8 +67,6 @@ const deleteData = (index) => {
     window.location.reload();
 }
 
-// showData();
-
 submitBtn.addEventListener(('click'), () => {
     getData();
     showData();
