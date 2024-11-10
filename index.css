@@ -206,12 +206,6 @@ h1 {
     gap: 5vw;
 }
 
-.card img {
-    border-radius: 0.5rem;
-    width: 130px;
-    height: 150px;
-}
-
 .card .info {
     text-align: left;
     display: flex;
